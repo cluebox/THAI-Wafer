@@ -1,0 +1,16 @@
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\bin\Debug\ThaiWafer.exe.config
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\bin\Debug\ThaiWafer.exe
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\bin\Debug\ThaiWafer.pdb
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\obj\Debug\ThaiWafer.exe
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\obj\Debug\ThaiWafer.pdb
+E:\Clue-Box Work\V.Studio\ThaiWafer\ThaiWafer\obj\Debug\ThaiWafer.csprojResolveAssemblyReference.cache
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\bin\Debug\ThaiWafer.exe.config
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\obj\Debug\ThaiWafer.exe
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\obj\Debug\ThaiWafer.pdb
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\bin\Debug\ThaiWafer.exe
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\bin\Debug\ThaiWafer.pdb
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\bin\Debug\SpssLib.dll
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\bin\Debug\SpssLib.xml
+D:\Dotnet project\THAI-Parsing ALL\ThaiWafer\ThaiWafer\obj\Debug\ThaiWafer.csprojResolveAssemblyReference.cache
